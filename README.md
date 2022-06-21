@@ -25,6 +25,9 @@ Classifiers are used to identify and categorize the different diseases that occu
 # Use-case diagram
 ![image](https://user-images.githubusercontent.com/47741271/174048013-bee9539e-e481-487f-adcb-257a6bb233cb.png)
 
+# Flow chart diagram
+![image](https://user-images.githubusercontent.com/47741271/174811946-3e7fd096-30d5-493a-9bac-42b6653a717d.png)
+
 # Conclusion and Future Scope
 - To prevent losses, small holder farmers are dependent on a timely and accurate crop disease diagnosis. 
 -	In this study, a pre-trained Convolutional Neural Network was fine-tuned, and the model was deployed online.
